@@ -1,0 +1,39 @@
+_repo: Boys-of-The-Fort--Or-A-Young-Captain-s-Pluck_32057
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32057-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Ralph
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Winfield, Arthur M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2010-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'United States. Army -- Military life -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+title: Boys of The Fort; Or, A Young Captain's Pluck
+url: http://www.gutenberg.org/ebooks/32057
